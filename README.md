@@ -2,7 +2,7 @@
 
 Ein Honeypot, der einen Datenbank-Dienst (MySQL) vortaeuscht, um echte Angreifer aus dem Internet anzulocken und ihre Eindringversuche aufzuzeichnen und auszuwerten.
 
-## Worum geht es
+## Worum es geht 
 
 Dieses Projekt taeuscht nach aussen einen verwundbar wirkenden Datenbank-Dienst vor. Echte Angreifer aus dem offenen Internet finden diesen Dienst, halten ihn fuer ein lohnendes Ziel und starten Eindringversuche. Der Honeypot nimmt diese Versuche entgegen, schneidet sie mit und speichert sie strukturiert in einer Datenbank. Aus den gesammelten Daten lassen sich anschliessend Angriffsmuster erkennen und Erkenntnisse darueber gewinnen, wie Angreifer vorgehen.
 
