@@ -1,7 +1,7 @@
 # Datenbank-Honeypot
 
 Hiermit dokumentiere ich das erworbene Wissen und Vorgehen des Abschlussprojekts.
----
+
 
 ## Inhaltsverzeichnis📖
 
